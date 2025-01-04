@@ -1,0 +1,1 @@
+This is a repository that stores all personal code I write and work on for the next 100 days.
