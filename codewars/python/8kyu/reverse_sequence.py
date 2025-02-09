@@ -4,6 +4,6 @@ def reverse_seq(n):
         working.append(i)
     working.sort(reverse=True)
     return working
-print(reverse_seq(5))
+print(reverse_seq(99))
 
 #You have passed all of the tests! :)
