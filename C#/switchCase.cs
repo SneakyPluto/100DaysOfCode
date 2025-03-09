@@ -18,7 +18,6 @@ namespace BroFirstProgram
                     console.WriteLine("Wednesday my due");
                 break;
             }
-)
         }
     }
 }
